@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Gentle Aloe Moisturizer",
+        "skin_types": ["dry", "sensitive"],
+        "concerns": ["aging", "acne"],
+        "tags": ["natural", "fragrance-free"]
+    },
+    {
+        "name": "Clear Skin Wash",
+        "skin_types": ["oily", "combination"],
+        "concerns": ["acne"],
+        "tags": ["dermatologist-tested"]
+    },
+    {
+        "name": "Vitamin C Brightening Serum",
+        "skin_types": ["all"],
+        "concerns": ["hyperpigmentation", "aging"],
+        "tags": ["natural", "dermatologist-tested"]
+    }
+]
